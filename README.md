@@ -20,8 +20,8 @@ cd ProjetEcosysteme
 
 ## Compilation et Exécution
 Pour compiler et exécuter le projet, utilisez :
-make
-./simulation
+- make
+- ./simulation
 
 ## Utilisation
 Après avoir exécuté le programme, suivez les instructions à l'écran pour démarrer la simulation. Vous serez invité à choisir la taille de la grille (par exemple, 1 pour 5x5, etc.) et d'autres paramètres initiaux pour configurer l'écosystème avant de lancer la simulation.
