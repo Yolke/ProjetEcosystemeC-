@@ -14,9 +14,9 @@ Le Projet Écosystème est une simulation dynamique qui modélise les interactio
 
 ## Installation
 Clonez le dépôt GitHub à l'aide de :
-Contacter moi pour avoir accès au dépôt.
-git clone https://github.com/votreUsername/ProjetEcosysteme.git
-cd ProjetEcosysteme
+- Contacter moi pour avoir accès au dépôt.
+- git clone https://github.com/votreUsername/ProjetEcosysteme.git
+- cd ProjetEcosysteme
 
 ## Compilation et Exécution
 Pour compiler et exécuter le projet, utilisez :
@@ -27,5 +27,5 @@ Pour compiler et exécuter le projet, utilisez :
 Après avoir exécuté le programme, suivez les instructions à l'écran pour démarrer la simulation. Vous serez invité à choisir la taille de la grille (par exemple, 1 pour 5x5, etc.) et d'autres paramètres initiaux pour configurer l'écosystème avant de lancer la simulation.
 
 ## Auteurs
-Jérémy Gago
-Yassine Mernissi
+- Jérémy Gago
+- Yassine Mernissi
